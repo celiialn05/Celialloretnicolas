@@ -1,0 +1,41 @@
+body {
+background-color:"EDD2FE"
+}
+
+h1 { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #F3E4FC; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: center; 
+background: #4A0076; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 20px; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 0px 35px 0px; 
+-webkit-border-radius: 35px 0px 35px 0px; 
+border: 2px solid #A8A8A8;
+}
+	
+.parrafo1 {
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #889ccf;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
+
+.parrafo2 {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #FF052B;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
